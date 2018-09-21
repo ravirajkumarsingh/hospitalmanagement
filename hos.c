@@ -899,6 +899,4 @@ void about()
 /* END OF THE PROGRAM */
 
 
-//For further Advance Engineering topics click here: advengg.blogspot.com
-//Posted 7th April 2013 by Muddassir Iqbal
-//Labels: menu driven program
+
